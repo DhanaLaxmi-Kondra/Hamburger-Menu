@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+}
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+}
+.nav-Container {
+  display: flex;
+  justify-content: space-between;
+}
+.ham {
+  height: 60px;
+  width: 60px;
+  margin-top: 10px;
+}
+.styling {
+  display: flex;
+}
+.icon{
+  margin-top: 28px;
+  margin-right: 5px;
+}
